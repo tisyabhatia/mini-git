@@ -1,9 +1,3 @@
-// Tisya Bhatia
-// 2.12.2925
-// CSE 123 BB
-// P1: Mini Git
-// TA: Shreya Pandey
-
 import java.util.*;
 import java.text.SimpleDateFormat;
 
